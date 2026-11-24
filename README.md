@@ -1,0 +1,1 @@
+Upload index.html, logo.png and archery.ics to a public GitHub Pages repository. Enable Pages from main / root. Keep the calendar URL and event UIDs stable; increment SEQUENCE and update DTSTAMP when changing events. When state date is confirmed, remove the unused tentative event and update the retained one. Calendar clients refresh on their own schedules.
